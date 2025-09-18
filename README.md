@@ -26,4 +26,8 @@ Kullanıcılar, tarayıcı üzerinden dosya yükleyip alarm raporlarını filtre
 4. **Oluşturulacak dosya adını** girin  
 5. **Saat aralıklarını** belirtin (örn: `05.00-08.20`, `16.40-20.40`)  
 6. **"Raporu İşle"** butonuna tıklayın  
-7. İşlem tamamlandığında **Excel dosyasını indirin** ✅  
+7. İşlem tamamlandığında **Excel dosyasını indirin**
+
+   Gerekli bağımlılıkları yüklemek için:
+```bash
+pip install -r requirements.txt
