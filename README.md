@@ -1,4 +1,4 @@
-# Excel Dönüştürücü & Alarm Raporlama Aracı 🚀
+# Excel Dönüştürücü & Alarm Raporlama Aracı
 
 Bu proje, ofis kullanımına uygun olarak hazırlanmış bir **Excel dönüştürme ve raporlama aracı**dır.  
 Kullanıcılar, tarayıcı üzerinden dosya yükleyip alarm raporlarını filtreleyebilir, işleyebilir ve düzenlenmiş Excel dosyalarını kolayca indirebilir.  
